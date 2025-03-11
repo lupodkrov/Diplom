@@ -120,3 +120,5 @@ loading Диаграмма введения учета долгов и заче�
 
 
 https://docs.google.com/document/d/1C5PWuCMsQoCGmN_WN4tVnUkJKUN18CDdz7EVRUGoC90/edit?usp=sharing
+
+https://www.figma.com/design/13dbPJTr41GbuxbRmzFxxN/Untitled?node-id=0-1&t=rb7Ngcd9fsOXj04m-1
